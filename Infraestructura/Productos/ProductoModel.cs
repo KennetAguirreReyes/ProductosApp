@@ -75,6 +75,8 @@ namespace Infraestructura.Productos
             return index <= 0 ? null : productos[index];
         }
 
+
+
         #endregion 
 
         #region Métodos Privados 
